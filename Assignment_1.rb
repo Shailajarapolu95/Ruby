@@ -36,6 +36,7 @@ for i in 0..n
 	puts
 end
 #=====================================
+
 print "Enter the number of rows:"
 n = gets.chomp.to_i
 for j in 1..n
@@ -46,6 +47,7 @@ for j in 1..n
 	puts
 end
 #=========================================
+
 puts "Enter n value"
 n=gets.to_i
 for i in 1..n
